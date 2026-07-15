@@ -1,0 +1,6 @@
+{
+  "name": "Huwiyati AI",
+  "description": "An intelligent AI mentor dedicated to empowering Arab girls while preserving Arab identity, culture, confidence, creativity, education, and leadership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
